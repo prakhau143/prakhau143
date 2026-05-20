@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 A Software & Full-stack / Developer Located In Our Lovely Earth<br>👯 I Am Currently Seeking Opportunities<br>🤝 I'm passionate about transforming concepts into workable solutions<br>🌱 Exploring Prompt Engineering, Serverless APIs, and UI/UX design<br>💬  I have expertise with cloud computing, the MERN stack, and my area of expertise is Software development.<br>⚡  Runer Up–RoboThon Workshop and Competition | Tech Lead, AI Club at @ VIT-Bhopal
-
+![](https://komarev.com/ghpvc/?username=prakhau143&label=Profile+Views&color=0e75b6&style=flat)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/its_prakhar_mittal/?__pwa=1#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/its-prakhar-mittal) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/h![](https://komarev.com/ghpvc/?username=prakhau143&label=Profile+Views&color=0e75b6&style=flat)ttps://www.instagram.com/its_prakhar_mittal/?__pwa=1#) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mittalprakhar504@gmail.com) 
