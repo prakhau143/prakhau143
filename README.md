@@ -253,17 +253,6 @@
 <!--                      GITHUB STATS                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 📊 Vital Statistics
-
-<br/>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=prakhau143&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<br/>
-
--->
 <!--                      GITHUB STATS                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 📊 Vital Statistics
@@ -274,14 +263,7 @@
 </p>
 <br/>
 <!-- STATS — using anuraghazra's own hosted instance -->
-<p align="center">
-  <a href="https://github.com/prakhau143">
-    <img src="https://github-readme-stats.vercel.app/api?username=prakhau143&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&border_radius=10" alt="GitHub Stats" height="175" />
-  </a>
-  <a href="https://github.com/prakhau143">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakhau143&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&count_private=true&border_radius=10" alt="Top Languages" height="175" />
-  </a>
-</p>
+
 <br/>
 <!-- PROFILE SUMMARY CARDS — separate reliable service -->
 <p align="center">
