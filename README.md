@@ -424,7 +424,7 @@
 <!--                    CONNECT + SUPPORT                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<table width="100%" border="0" cellspacing="10" cellpadding="0">
+<table width="900px" border="0" cellspacing="10" cellpadding="0">
 <tr>
 
 <td width="50%" valign="top">
