@@ -30,46 +30,6 @@
 
 ---
 
-## 💼 Work Experience
-
-### 🔵 [Kwikster Innovative Optimisations](https://kwikster.in) — *Python Full-Stack Developer*
-`Feb 2025 – Present`
-- Building scalable **Django + React** applications with API integrations
-- Experienced in **AWS, Docker, CI/CD**, and database optimization for high performance
-
-### 🟢 Kreative TimeBox — *Python AI-ML Developer*
-`May 2025 – Aug 2025`
-- Developed backend APIs & automation scripts using **Python and Flask**
-- Worked on data processing, third-party API integrations & real-time scalable solutions
-
-### 🟡 Six Phrase — *C/C++/Java DSA Trainer & Software Developer*
-`Sept 2024 – Feb 2025`
-- Delivered structured training to **100+ students** in C, C++, Java & DSA
-- Designed lesson plans, coding assignments & conducted live doubt-solving workshops
-- Mentored students for competitive programming & technical interview preparation
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 AI Digital Marketing Automation `Aug 2025`
-> AI-powered system to manage campaigns, automate customer engagement & improve lead generation
-
-- Automated email campaigns and customer workflows using AI tools
-- Integrated APIs and analytics for real-time campaign tracking
-- **Tech Stack:** `Python` `Django` `React.js` `MySQL` `REST APIs` `Flutter`
-
----
-
-### 📞 AI Auto Dialer `Dec 2025`
-> AI-based auto dialer system for automated outbound calling workflows
-
-- Integrated **VoIP APIs** (Twilio/Asterisk/SignalWire) for outbound calling
-- Implemented AI-based voice interaction modules for smart customer communication
-- **Tech Stack:** `Python` `Flask/Django` `React.js` `Twilio` `SignalWire` `MySQL`
-
----
-
 ## 💻 Tech Stack
 
 **Languages:**
