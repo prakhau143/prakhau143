@@ -361,28 +361,6 @@
 <!--               TOP CONTRIBUTED REPOSITORIES                    -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🔝 Top Contributed Repositories
-
-<br/>
-
-<p align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prakhau143&repo=prakhau143&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/prakhau143)
-
-</p>
-
-<p align="center">
-  <a href="https://github.com/prakhau143?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/badge/⭐%20Browse%20All%20Repositories-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff" />
-  </a>
-</p>
-
-<br/>
-
-> 💡 **Note:** Pin your top 2 project repos from GitHub Settings → Customize Profile → Pin repositories — they will auto-show here!
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--              ACHIEVEMENTS & CERTIFICATIONS                    -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
