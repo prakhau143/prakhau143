@@ -1,51 +1,35 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        HEADER BANNER                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
+<!-- HEADER BANNER — using svg.io which is GitHub-allowed -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Prakhar%20Mittal&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20%26%20AI%2FML%20Developer&descAlignY=58&descSize=22" alt="Prakhar Mittal Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=110&lines=Prakhar+Mittal;Full-Stack+%26+AI%2FML+Developer" alt="Prakhar Mittal" />
 </p>
 
-<!-- GREETING -->
-<h3 align="center">
-  <samp>
-    &gt; Hey There! I am
-    <b><a target="_blank" href="https://linkedin.com/in/its-prakhar-mittal">Prakhar Mittal</a></b>
-  </samp>
-</h3>
-
-<br/>
-
 <p align="center">
-  <samp>
-    「 Python Full-Stack & AI/ML Developer · Django · React · AWS · Docker 」
-  </samp>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=38D39F&center=true&vCenter=true&width=800&lines=Python+Full-Stack+Developer+%40+Kwikster;AI%2FML+Developer+%40+Kreative+TimeBox;Django+%7C+React+%7C+AWS+%7C+Docker+%7C+Flask;100%2B+Days+Coding+Streak+%F0%9F%94%A5;DSA+Trainer+%7C+Mentored+135%2B+Students;Open+to+Exciting+Opportunities!" alt="Typing SVG" />
 </p>
 
-<!-- TYPING SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=860&lines=Python+Full-Stack+Developer+%40+Kwikster;AI%2FML+Developer+%40+Kreative+TimeBox;Django+%7C+React+%7C+AWS+%7C+Docker+%7C+Flask;100%2B+Days+Coding+Streak+%F0%9F%94%A5;DSA+Trainer+%7C+Mentored+135%2B+Students;Open+to+Exciting+Opportunities!" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=prakhau143&label=Profile+Views&color=0e75b6&style=flat-square" alt="profile views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/prakhau143?label=Followers&style=social" alt="followers" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20AI%2FML-58a6ff?style=flat-square" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Based%20in-Agra%2C%20India-success?style=flat-square" />
 </p>
 
-<!-- GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding animation" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Coding animation" />
 </p>
 
-<!-- ANIMATED DIVIDER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                        ABOUT ME                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="36"> About Me
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32"> About Me
 
 <br/>
-
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td valign="top" width="55%">
 
 - 🔭 Currently working at **Kwikster Innovative Optimisations** as Python Full-Stack Dev
 - 🤖 AI/ML Developer at **Kreative TimeBox** — intelligent backend solutions
@@ -58,37 +42,13 @@
 - 📫 Reach me: **mittalprakhar504@gmail.com**
 - 📍 Based in **Agra, India**
 
-</td>
-<td valign="top" width="45%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=prakhau143&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="100%" alt="GitHub Stats" />
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- BADGES ROW -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prakhau143&label=Profile+Views&color=0e75b6&style=flat-square" alt="profile views" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/prakhau143?label=Followers&style=social" alt="followers" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20AI%2FML-58a6ff?style=flat-square" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Lives-India-success?style=flat-square" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen?style=flat-square" />
-</p>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    WORK EXPERIENCE                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="34"/> Work Experience
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30"/> Work Experience
 
 <br/>
 
@@ -97,35 +57,29 @@
 
 <td width="33%" valign="top">
 <h4>🔵 Kwikster Innovative Optimisations</h4>
-<sub><code>Feb 2025 – Present</code> · Python Full-Stack Developer</sub>
-<br/><br/>
+<sub><code>Feb 2025 – Present</code> · Python Full-Stack Developer</sub><br/><br/>
 
 - Scalable **Django + React** apps with API integrations
 - **AWS · Docker · CI/CD** & database optimization
 - High-performance backend architecture
-
 </td>
 
 <td width="33%" valign="top">
 <h4>🟢 Kreative TimeBox</h4>
-<sub><code>May 2025 – Aug 2025</code> · Python AI-ML Developer</sub>
-<br/><br/>
+<sub><code>May 2025 – Aug 2025</code> · Python AI-ML Developer</sub><br/><br/>
 
 - Backend APIs & automation via **Python + Flask**
 - Data processing & third-party API integrations
 - Real-time scalable solution design
-
 </td>
 
 <td width="33%" valign="top">
 <h4>🟡 Six Phrase</h4>
-<sub><code>Sept 2024 – Feb 2025</code> · DSA Trainer & Software Dev</sub>
-<br/><br/>
+<sub><code>Sept 2024 – Feb 2025</code> · DSA Trainer & Software Dev</sub><br/><br/>
 
 - Trained **100+ students** in C, C++, Java & DSA
 - Designed curriculum, live sessions & assessments
 - Competitive programming & interview prep
-
 </td>
 
 </tr>
@@ -137,17 +91,17 @@
 <!--                  TECH STACK & SKILLS                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Technologies & Skills
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Technologies & Skills
 
 <br/>
 
-<table border="0" cellspacing="10" cellpadding="0">
+<table border="0" cellspacing="10" cellpadding="0" width="100%">
 <tr>
 
-<!-- LEFT: TECH ICONS -->
-<td width="420" valign="top" align="center">
+<td width="55%" valign="top" align="center">
 
-<h3>🛠 Tech Stack</h3>
+### 🛠 Tech Stack
+
 <br/>
 
 <table align="center" cellspacing="0" cellpadding="8">
@@ -190,29 +144,45 @@
 
 </td>
 
-<!-- RIGHT: SKILL BARS TEXT -->
-<td width="280" valign="top" align="left">
+<td width="45%" valign="top" align="left">
 
-<h3>📈 Skill Domains</h3>
+### 📈 Skill Domains
+
 <br/>
 
-**Backend Development**
-`████████████░░` 85%
+![Backend Development](https://img.shields.io/badge/Backend%20Development-85%25-58a6ff?style=flat-square&labelColor=0d1117)
 
-**Frontend / React**
-`██████████░░░░` 75%
+`████████████████████░░░░` **85%**
 
-**AI / ML & Data Science**
-`█████████░░░░░` 70%
+<br/>
 
-**Cloud & DevOps (AWS/Docker)**
-`████████░░░░░░` 65%
+![Frontend / React](https://img.shields.io/badge/Frontend%20%2F%20React-75%25-38d39f?style=flat-square&labelColor=0d1117)
 
-**DSA & Problem Solving**
-`████████████░░` 85%
+`███████████████████░░░░░` **75%**
 
-**UI/UX & Figma**
-`███████░░░░░░░` 55%
+<br/>
+
+![AI / ML & Data Science](https://img.shields.io/badge/AI%20%2F%20ML%20%26%20Data%20Science-70%25-f0a500?style=flat-square&labelColor=0d1117)
+
+`█████████████████░░░░░░░` **70%**
+
+<br/>
+
+![Cloud & DevOps](https://img.shields.io/badge/Cloud%20%26%20DevOps-65%25-e96dbb?style=flat-square&labelColor=0d1117)
+
+`████████████████░░░░░░░░` **65%**
+
+<br/>
+
+![DSA & Problem Solving](https://img.shields.io/badge/DSA%20%26%20Problem%20Solving-85%25-58a6ff?style=flat-square&labelColor=0d1117)
+
+`████████████████████░░░░` **85%**
+
+<br/>
+
+![UI/UX & Figma](https://img.shields.io/badge/UI%2FUX%20%26%20Figma-55%25-ff6b6b?style=flat-square&labelColor=0d1117)
+
+`█████████████░░░░░░░░░░░` **55%**
 
 </td>
 
@@ -225,7 +195,7 @@
 <!--                     FEATURED PROJECTS                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Featured Projects
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Featured Projects
 
 <br/>
 
@@ -253,7 +223,7 @@
 <td width="50%" valign="top">
 
 ### 📞 AI Auto Dialer
-> `Dec 2025` · Automated VoIP calling with AI voice interaction
+> `Dec 2025` · Automated VoIP calling with AI voice
 
 - 📡 VoIP API integration (Twilio / Asterisk / SignalWire)
 - 🗃 Large-scale call records & analytics optimization
@@ -287,38 +257,34 @@
 
 <br/>
 
-<!-- Streak -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=prakhau143&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=prakhau143&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <br/>
 
-<!-- Stats + Languages side by side -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prakhau143&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" height="170" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakhau143&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&count_private=true" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prakhau143&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" alt="GitHub Stats" height="170" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakhau143&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&count_private=true&cache_seconds=1800" alt="Top Languages" height="170" />
 </p>
 
 <br/>
 
-<!-- Profile Summary Card - full contribution timeline -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prakhau143&theme=tokyonight" alt="Profile Summary" width="92%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prakhau143&theme=tokyonight" alt="Profile Summary" width="90%" />
 </p>
 
 <br/>
 
-<!-- Summary cards row -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prakhau143&theme=tokyonight" alt="Repos per Language" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prakhau143&theme=tokyonight" height="150" />
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prakhau143&theme=tokyonight" alt="Most Commit Language" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prakhau143&theme=tokyonight" height="150" />
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prakhau143&theme=tokyonight" alt="Stats" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prakhau143&theme=tokyonight" height="150" />
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prakhau143&theme=tokyonight&utcOffset=5.5" alt="Productive Time" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prakhau143&theme=tokyonight&utcOffset=5.5" height="150" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
@@ -386,7 +352,7 @@
   </table>
 </p>
 <p align="center">
-  <sub>🔒 <i>View all achievements on my <a href="https://github.com/prakhau143?tab=achievements">GitHub profile</a></i></sub>
+  <sub>🔒 <i>View all on my <a href="https://github.com/prakhau143?tab=achievements">GitHub profile →</a></i></sub>
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
@@ -400,19 +366,25 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=prakhau143&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos" width="80%" />
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prakhau143&repo=prakhau143&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/prakhau143)
+
 </p>
 
 <p align="center">
   <a href="https://github.com/prakhau143?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/badge/Browse%20All%20Repos-%230d1117?style=for-the-badge&logo=github&logoColor=58a6ff" />
+    <img src="https://img.shields.io/badge/⭐%20Browse%20All%20Repositories-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff" />
   </a>
 </p>
+
+<br/>
+
+> 💡 **Note:** Pin your top 2 project repos from GitHub Settings → Customize Profile → Pin repositories — they will auto-show here!
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--              ACHIEVEMENTS & EXTRA-CURRICULARS                 -->
+<!--              ACHIEVEMENTS & CERTIFICATIONS                    -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🏅 Achievements & Extra-Curriculars
@@ -434,7 +406,7 @@
 </td>
 <td width="50%" valign="top">
 
-## 📜 Certifications
+### 📜 Certifications
 
 - 🧰 [MERN Stack Developer — Ethnuss Certified](#)
 - ☁️ [Cloud Computing — NPTEL Certified](#)
@@ -455,7 +427,6 @@
 <table width="100%" border="0" cellspacing="10" cellpadding="0">
 <tr>
 
-<!-- LEFT: CONNECT -->
 <td width="50%" valign="top">
 
 ## 🌐 Connect With Me
@@ -480,7 +451,6 @@
 
 </td>
 
-<!-- RIGHT: SUPPORT -->
 <td width="50%" valign="top" align="center">
 
 ## 💰 Support My Work
@@ -494,11 +464,8 @@
 <a href="https://paypal.me/6377398830@ibl">
   <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
 </a>
-
 <br/><br/>
-<p>
-  <sub>⚡ If my work helped you, consider giving a ⭐ to the repo!</sub>
-</p>
+<sub>⚡ If my work helped you, give a ⭐ to the repo!</sub>
 
 </td>
 
@@ -507,15 +474,11 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-<!-- FOOTER QUOTE -->
 <p align="center">
   <samp>「 Code is poetry, bugs are just plot twists 」</samp><br/>
   <b>— Prakhar Mittal</b>
 </p>
 
-<br/>
-
-<!-- FOOTER WAVE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="Footer Wave" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=5000&color=58A6FF&center=true&vCenter=true&repeat=false&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B+Star+%E2%AD%90+repos+if+they+helped+you!" alt="Footer message" />
 </p>
