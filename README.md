@@ -300,7 +300,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prakhau143&theme=tokyonight&utcOffset=5.5" height="150" />
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="900px" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    CONTRIBUTION GRAPH                         -->
