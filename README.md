@@ -98,7 +98,7 @@
 <table border="0" cellspacing="10" cellpadding="0" width="100%">
 <tr>
 
-<td width="55%" valign="top" align="center">
+<td width="400px" valign="top" align="center">
 
 ### 🛠 Tech Stack
 
@@ -144,7 +144,7 @@
 
 </td>
 
-<td width="45%" valign="top" align="left">
+<td width="400px" valign="top" align="left">
 
 ### 📈 Skill Domains
 
