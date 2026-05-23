@@ -98,7 +98,7 @@
 <table border="0" cellspacing="10" cellpadding="0" width="100%">
 <tr>
 
-<td width="400px" valign="top" align="center">
+<td width="450px" valign="top" align="center">
 
 ### 🛠 Tech Stack
 
@@ -144,7 +144,7 @@
 
 </td>
 
-<td width="400px" valign="top" align="left">
+<td width="450px" valign="top" align="left">
 
 ### 📈 Skill Domains
 
@@ -427,7 +427,7 @@
 <table width="900px" border="0" cellspacing="10" cellpadding="0">
 <tr>
 
-<td width="50%" valign="top">
+<td width="450px" valign="top">
 
 ## 🌐 Connect With Me
 
@@ -451,7 +451,7 @@
 
 </td>
 
-<td width="50%" valign="top" align="center">
+<td width="450" valign="top" align="center">
 
 ## 💰 Support My Work
 
