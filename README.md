@@ -263,11 +263,42 @@
 
 <br/>
 
+-->
+<!--                      GITHUB STATS                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+📊 Vital Statistics
+<br/>
+<!-- STREAK — demolab is the official maintained service -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prakhau143&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" alt="GitHub Stats" height="170" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakhau143&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&count_private=true&cache_seconds=1800" alt="Top Languages" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=prakhau143&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=600" alt="GitHub Streak" />
 </p>
+<br/>
+<!-- STATS — using anuraghazra's own hosted instance -->
+<p align="center">
+  <a href="https://github.com/prakhau143">
+    <img src="https://github-readme-stats.vercel.app/api?username=prakhau143&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&border_radius=10" alt="GitHub Stats" height="175" />
+  </a>
+  <a href="https://github.com/prakhau143">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakhau143&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&count_private=true&border_radius=10" alt="Top Languages" height="175" />
+  </a>
+</p>
+<br/>
+<!-- PROFILE SUMMARY CARDS — separate reliable service -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prakhau143&theme=tokyonight" alt="Profile Summary Card" width="90%" />
+</p>
+<br/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prakhau143&theme=tokyonight" height="155" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prakhau143&theme=tokyonight" height="155" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prakhau143&theme=tokyonight" height="155" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prakhau143&theme=tokyonight&utcOffset=5.5" height="155" />
+</p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<!--
 
 <br/>
 
